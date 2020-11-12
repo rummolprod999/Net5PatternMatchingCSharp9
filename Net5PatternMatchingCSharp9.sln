@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net5PatternMatchingCSharp9", "Net5PatternMatchingCSharp9.csproj", "{7663D53A-5A09-4C1C-9318-F4D74CB82CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7663D53A-5A09-4C1C-9318-F4D74CB82CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7663D53A-5A09-4C1C-9318-F4D74CB82CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7663D53A-5A09-4C1C-9318-F4D74CB82CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7663D53A-5A09-4C1C-9318-F4D74CB82CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
